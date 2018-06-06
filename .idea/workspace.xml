@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5ffc820-9474-4b3c-8627-5b1a6d48cd05" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Black/Roboto-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Black/Roboto-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Black/Roboto-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Black/Roboto-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Black/Roboto-Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Black/Roboto-Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/BlackItalic/Roboto-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/BlackItalic/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/BlackItalic/Roboto-BlackItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/BlackItalic/Roboto-BlackItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/BlackItalic/Roboto-BlackItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/BlackItalic/Roboto-BlackItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Bold/Roboto-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Bold/Roboto-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Bold/Roboto-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Bold/Roboto-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Bold/Roboto-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Bold/Roboto-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/BoldItalic/Roboto-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/BoldItalic/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/BoldItalic/Roboto-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/BoldItalic/Roboto-BoldItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/BoldItalic/Roboto-BoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/BoldItalic/Roboto-BoldItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/COPYRIGHT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/COPYRIGHT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/DESCRIPTION.en_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/DESCRIPTION.en_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Italic/Roboto-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Italic/Roboto-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Italic/Roboto-Italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Italic/Roboto-Italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Italic/Roboto-Italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Italic/Roboto-Italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Light/Roboto-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Light/Roboto-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Light/Roboto-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Light/Roboto-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Light/Roboto-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Light/Roboto-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/LightItalic/Roboto-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/LightItalic/Roboto-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/LightItalic/Roboto-LightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/LightItalic/Roboto-LightItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/LightItalic/Roboto-LightItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/LightItalic/Roboto-LightItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/METADATA.pb" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/METADATA.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Medium/Roboto-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Medium/Roboto-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Medium/Roboto-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Medium/Roboto-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Medium/Roboto-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Medium/Roboto-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/MediumItalic/Roboto-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/MediumItalic/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/MediumItalic/Roboto-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/MediumItalic/Roboto-MediumItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/MediumItalic/Roboto-MediumItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/MediumItalic/Roboto-MediumItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Regular/Roboto-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Regular/Roboto-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Regular/Roboto-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Regular/Roboto-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Regular/Roboto-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Regular/Roboto-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Thin/Roboto-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Thin/Roboto-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Thin/Roboto-Thin.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Thin/Roboto-Thin.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/Thin/Roboto-Thin.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/Thin/Roboto-Thin.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/ThinItalic/Roboto-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/ThinItalic/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/ThinItalic/Roboto-ThinItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/ThinItalic/Roboto-ThinItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/fonts/ThinItalic/Roboto-ThinItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/fonts/ThinItalic/Roboto-ThinItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Black.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Black.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_BlackItalic.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_BlackItalic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Bold.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Bold.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_BoldItalic.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_BoldItalic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Italic.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Italic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Light.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Light.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_LightItalic.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_LightItalic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Medium.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Medium.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_MediumItalic.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_MediumItalic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Regular.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Regular.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_Thin.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_Thin.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_ThinItalic.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_ThinItalic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/less/_variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/less/_variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/roboto.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/roboto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/roboto.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/roboto.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/roboto.less" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/roboto.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/roboto.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/roboto.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Black.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Black.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_BlackItalic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_BlackItalic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Bold.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Bold.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_BoldItalic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_BoldItalic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Italic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Italic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Light.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_LightItalic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_LightItalic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Medium.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Medium.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_MediumItalic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_MediumItalic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Regular.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_Thin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_Thin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_ThinItalic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_ThinItalic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/sass/roboto.scss" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/roboto/sass/roboto.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lixnet1@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regexp-search.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regexp-search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="75" column="73" selection-start-line="75" selection-start-column="73" selection-end-line="75" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fonts/roboto" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/add.php" />
+        <option value="$PROJECT_DIR$/update.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/regexp-search.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fonts/roboto/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2.4" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="32" />
+    <option name="width" value="1440" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lixnet1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lixnet1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="/usr/bin/php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5ffc820-9474-4b3c-8627-5b1a6d48cd05" name="Default" comment="" />
+      <created>1528184508407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528184508407</updated>
+      <workItem from="1528184514472" duration="7896000" />
+      <workItem from="1528193455623" duration="4276000" />
+      <workItem from="1528202119100" duration="4754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="32" width="1440" height="868" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25681493" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3292683" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32998565" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-end-line="93" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.3.1.min.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jquery_prac/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jquery_prac/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jquery_prac/db/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" selection-start-line="8" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70cec005-17ee-4879-a2f9-f6f2ed1568d4/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="144" column="22" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="124" column="16" lean-forward="true" selection-start-line="124" selection-start-column="16" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="75" column="73" selection-start-line="75" selection-start-column="73" selection-end-line="75" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regexp-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

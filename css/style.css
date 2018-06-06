@@ -1,0 +1,34 @@
+body {
+    font-family: Roboto, sans-serif !important;
+}
+
+i {
+    vertical-align: middle;
+}
+
+form {
+    height: auto;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+form .material-icons {
+    font-size: 20px !important;
+}
+
+input {
+    font-weight: 400;
+}
+
+.form-wrap {
+    margin-top: 100px;
+}
+
+.form-wrap h2 {
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+
+#login-form {
+    padding: 16px;
+}
