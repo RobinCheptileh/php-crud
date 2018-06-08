@@ -4,7 +4,7 @@ $host = "localhost";
 $db = "lixnet1";
 $port = "3306";
 $user = "root";
-$pass = "90210";
+$pass = "";
 $charset = "utf8";
 
 try {
